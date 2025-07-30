@@ -5,7 +5,9 @@ public class gitdemo {
 	
 	public void HelloSamarth(){
 	System.out.println("Hello Samarth");
-public void HelloRavi(){
+	}
+
+	public void HelloRavi(){
 	System.out.println("Hello Ravi");
-}
+	}
 }
