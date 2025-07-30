@@ -10,4 +10,8 @@ public class gitdemo {
     public void HelloRavi(){
 	System.out.println("Hello Ravi");
     }
+
+    public void feature_B(){
+        System.out.println("Added a new Branch feature_B");
+    }
 }
